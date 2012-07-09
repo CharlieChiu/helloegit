@@ -10,10 +10,8 @@ public class Test {
 		System.out.println(System.currentTimeMillis());
 		
 		Haha ddb = Haha.Db;
-		Haha dsb = Haha.Sb;
 		
 		Haha dddb = Haha.Db;
 		System.out.println(ddb == dddb);
-		byte hoho = 0;
 	}
 }
